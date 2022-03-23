@@ -54,6 +54,7 @@
     padding: 5px 10px;
     color: white;
     outline: none;
+    cursor: pointer;
 }
 
 .submit{
@@ -71,6 +72,7 @@
     font-size: 16px;
     text-transform: uppercase;
     box-shadow: 0px 2px 6px 1px black;
+    cursor: pointer;
 }
 
 .active_btn{
@@ -103,4 +105,5 @@
     font-size: 16px;
     text-transform: uppercase;
     box-shadow: 0px 2px 6px 1px black;
+    cursor: pointer;
 }
